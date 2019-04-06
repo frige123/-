@@ -1,0 +1,5 @@
+var t = 12;
+var f = 15;
+var k ;
+k = f+t;
+k = 27;
